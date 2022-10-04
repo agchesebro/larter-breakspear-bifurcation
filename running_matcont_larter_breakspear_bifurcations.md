@@ -1,4 +1,4 @@
-#Running MatCont analyses from the manuscript
+# Running MatCont analyses from the manuscript
 
 To run the analyses from Section 3 and generate Figures 2a, 3a, and 4a, follow the steps below.
 
